@@ -1,0 +1,31 @@
+{
+    "data": {
+        "items": [
+            {
+                "id": 23,
+                "logo": "043cf7be-272e-450e-96c1-9a74658cf3d6",
+                "name": "Animoca Brands KK",
+                "links": {
+                    "website": "https://www.animocabrands.com/"
+                }
+            },
+            {
+                "id": 45,
+                "logo": "ce682392-3efd-4a53-8667-575c4bcaee79",
+                "name": "Binance Labs",
+                "links": {
+                    "website": "https://labs.binance.com/"
+                }
+            }
+        ],
+        "metadata": {
+            "media": {
+                "043cf7be-272e-450e-96c1-9a74658cf3d6": "animocabrands_full_color_a9c5c4f1a6.png",
+                "ce682392-3efd-4a53-8667-575c4bcaee79": "binancelabs_full_color_5d38a73f49.png"
+            },
+            "others": {
+                "backer_rank": "S"
+            }
+        }
+    }
+}

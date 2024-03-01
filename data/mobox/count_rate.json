@@ -1,0 +1,15 @@
+{
+    "data": {
+        "collection_id": "cda1dd30-0128-4ffe-bb65-29001e1ad0e9",
+        "collection_type": "games",
+        "ratings": 66,
+        "star_rating": 4,
+        "counts": {
+            "1": 2,
+            "2": 1,
+            "3": 3,
+            "4": 15,
+            "5": 45
+        }
+    }
+}

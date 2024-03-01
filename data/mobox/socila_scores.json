@@ -1,0 +1,19 @@
+{
+    "data": {
+        "item": {
+            "game_id": "cda1dd30-0128-4ffe-bb65-29001e1ad0e9",
+            "time": "2024-02-21T00:00:00Z",
+            "timeframe": "24h",
+            "social_score": 96.6603012084961,
+            "telegram_group_score": 96.51234436035156,
+            "telegram_channel_score": 3.073378801345825,
+            "twitter_score": 90.88308715820312,
+            "discord_score": 88.43307495117188,
+            "social_rank": 20,
+            "telegram_group_rank": 10,
+            "telegram_channel_rank": 191,
+            "twitter_rank": 54,
+            "discord_rank": 81
+        }
+    }
+}
