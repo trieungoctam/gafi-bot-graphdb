@@ -1,5 +1,5 @@
-{
-    "pageProps": {
+
+    {
         "gameData": {
             "id": "cda1dd30-0128-4ffe-bb65-29001e1ad0e9",
             "status": "published",
@@ -43,46 +43,12 @@
             "play_to_earn_model": "{\"time\":1670221283384,\"blocks\":[{\"id\":\"EH9t72nC6r\",\"type\":\"paragraph\",\"data\":{\"text\":\"1. Community contributions come in many forms and the MOBOX platform rewards the community in every way possible.  From influencers to simply enjoying games on the platform, there is a piece of MOBOX for everyone.\"}},{\"id\":\"DTFK08jBRz\",\"type\":\"paragraph\",\"data\":{\"text\":\"2. With a fair, transparent, and unique engagement algorithm that uses a combination of likes, views, impressions, and clicks, authors are rewarded with MBOX tokens. Ensuring that quality posts fostering and supporting community growth is rewarded accordingly.\"}},{\"id\":\"gvjKXVN-5b\",\"type\":\"paragraph\",\"data\":{\"text\":\"3.&nbsp;MOBOX rewards users just by simply enjoying and interacting with the platform.  Whether it is simply signing up for a MOBOX account, collecting MOMOs, or interacting through MOBOX social users can claim MBOX token rewards through the Achievement System.\"}},{\"id\":\"0TxppzGH69\",\"type\":\"paragraph\",\"data\":{\"text\":\"4.&nbsp;MOBOX uses a unique Invite system that rewards users for having fun together.  For every user invited through a unique referral code, users are rewarded with 20% of all the achievements completed by their friends and family.  This creates a unique relations between the platform, the user, and the invited creating an ecosystem where everyone thrives together.\"}},{\"id\":\"0HwUVtf69J\",\"type\":\"paragraph\",\"data\":{\"text\":\"The invite system will be limited to 10 users invited to ensure that the system isn't being gamed by bad actors.  To increase this limit users can contact support.\"}},{\"id\":\"HVgwRZq9Zf\",\"type\":\"image\",\"data\":{\"file\":{\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/mobox_earn_71bca65078.png\",\"mime\":\"image/png\",\"height\":410,\"width\":512,\"size\":19.19,\"alt\":\"mobox-earn.png\",\"formats\":{\"small\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/small_mobox_earn_71bca65078.png\",\"hash\":\"small_mobox_earn_71bca65078\",\"mime\":\"image/png\",\"name\":\"small_mobox-earn.png\",\"path\":null,\"size\":62.18,\"width\":500,\"height\":400},\"thumbnail\":{\"ext\":\".png\",\"url\":\"https://d1j2c9jkfhu70p.cloudfront.net/thumbnail_mobox_earn_71bca65078.png\",\"hash\":\"thumbnail_mobox_earn_71bca65078\",\"mime\":\"image/png\",\"name\":\"thumbnail_mobox-earn.png\",\"path\":null,\"size\":15.07,\"width\":195,\"height\":156}}},\"caption\":\"\",\"withBorder\":false,\"stretched\":false,\"withBackground\":false}}],\"version\":\"2.23.2\"}",
             "vertical_thumbnail": "30e91d64-0336-43ef-92b7-0e8e0d6417f2",
             "rectangle_thumbnail": "https://d1j2c9jkfhu70p.cloudfront.net/mobox_Rec_b39968ffa5.png",
-            "tokenomics_compact": [
-                {
-                    "id": "39b3446e-4e0e-458a-9243-cfc391d8204a",
-                    "valuation": 0,
-                    "market_cap": 88049070.78855804,
-                    "market_cap_init": 0,
-                    "market_cap_fully_diluted": 324416192,
-                    "market_cap_self_reported": 88050432,
-                    "token_symbol": "MBOX",
-                    "icon": "5a04cad8-6dd0-4366-ab8c-45eaeb25f2b6",
-                    "current_price": 0.3244161903858185,
-                    "public_price": 0,
-                    "highest_price": 15.44,
-                    "reported_ath": 0,
-                    "chart_symbol": "MBOXUSDT",
-                    "init_token_circulation": 37333406,
-                    "init_valuation": 0,
-                    "coinmarketcap_slug": "mobox",
-                    "coingecko_slug": "mobox",
-                    "price_change_24_h": 0.31560562,
-                    "price_change_7_d": -4.56441134,
-                    "price_change_30_d": 15.09778173,
-                    "price_change_90_d": 17.0750034,
-                    "volume_24_h": 10726679.5451243,
-                    "volume_change_24_h": -9.1394,
-                    "total_supply": 369987868,
-                    "max_supply": 1000000000,
-                    "type": null,
-                    "is_primary": false
-                }
-            ],
             "studios": [
                 {
                     "id": "639b1833-09b1-4a69-8502-d0b287b9e695",
                     "name": "MOBOX Team",
                     "link": null,
-                    "staffs": null,
-                    "game_ids": [
-                        "cda1dd30-0128-4ffe-bb65-29001e1ad0e9"
-                    ]
+                    "staffs": null
                 }
             ],
             "backers": [
@@ -92,10 +58,7 @@
                     "name": "Animoca Brands KK",
                     "links": {
                         "website": "https://www.animocabrands.com/"
-                    },
-                    "game_ids": [
-                        "cda1dd30-0128-4ffe-bb65-29001e1ad0e9"
-                    ]
+                    }
                 },
                 {
                     "id": 45,
@@ -103,32 +66,25 @@
                     "name": "Binance Labs",
                     "links": {
                         "website": "https://labs.binance.com/"
-                    },
-                    "game_ids": [
-                        "cda1dd30-0128-4ffe-bb65-29001e1ad0e9"
-                    ]
+                    }
                 }
             ],
             "categories": [
                 {
-                    "id": "7163b00a-ef5e-4bce-9547-f3d0f408f5e8",
                     "name": "Metaverse",
                     "slug": "metaverse"
                 },
                 {
-                    "id": "a20fc659-7a69-4bb4-af5e-b7232688c223",
                     "name": "Casual",
                     "slug": "casual"
                 },
                 {
-                    "id": "a318b549-8574-45ad-9e53-abecfbd3024c",
                     "name": "Platform",
                     "slug": "platform"
                 }
             ],
             "downloads": [
                 {
-                    "id": "1dd0c45b-4b49-47bd-8c3c-cb4ee9302eef",
                     "type": "web",
                     "link": "https://www.mobox.io/#/",
                     "version": "0"
@@ -136,47 +92,31 @@
             ],
             "contracts": [
                 {
-                    "id": "16471c6d-805e-4ff5-9311-4a5b7795270b",
                     "network": "bsc",
                     "address": "0xe8ed0bf5efef4d0f4fe3c7af8f48daed5e756c84",
                     "type": "other",
                     "manual": true,
-                    "game_ids": [
-                        "cda1dd30-0128-4ffe-bb65-29001e1ad0e9"
-                    ],
                     "priority": null
                 },
                 {
-                    "id": "1babd81e-040a-48b7-b9dd-cc066c14b4b7",
                     "network": "bsc",
                     "address": "0xb3e968ba01a78ea489292130bcf8bbe6a64be648",
                     "type": "erc1155",
                     "manual": true,
-                    "game_ids": [
-                        "cda1dd30-0128-4ffe-bb65-29001e1ad0e9"
-                    ],
                     "priority": null
                 },
                 {
-                    "id": "1bb50e0e-f0c0-49ad-ab1a-2518edad56fe",
                     "network": "bsc",
                     "address": "0xbc480cbc625a61b66f99af65767b7c2adabc287c",
                     "type": "other",
                     "manual": true,
-                    "game_ids": [
-                        "cda1dd30-0128-4ffe-bb65-29001e1ad0e9"
-                    ],
                     "priority": null
                 },
                 {
-                    "id": "1f4bfb82-8170-4161-887c-7daa53a0079d",
                     "network": "bsc",
                     "address": "0x5fb3035d07e5d0e1d8efbc5ae5b7546c15173035",
                     "type": "other",
                     "manual": true,
-                    "game_ids": [
-                        "cda1dd30-0128-4ffe-bb65-29001e1ad0e9"
-                    ],
                     "priority": null
                 },
                 {
@@ -185,75 +125,48 @@
                     "address": "0xed8711feff83b446158259981fd97645856e82a5",
                     "type": "erc1155",
                     "manual": true,
-                    "game_ids": [
-                        "cda1dd30-0128-4ffe-bb65-29001e1ad0e9"
-                    ],
                     "priority": null
                 },
                 {
-                    "id": "2de52797-447a-4e9f-995c-9f9f50ce56f1",
                     "network": "bsc",
                     "address": "0xcb0cffc2b12739d4be791b8af7fbf49bc1d6a8c2",
                     "type": "other",
                     "manual": true,
-                    "game_ids": [
-                        "cda1dd30-0128-4ffe-bb65-29001e1ad0e9"
-                    ],
                     "priority": null
                 },
                 {
-                    "id": "2ea999d8-cd20-4ecf-8cdb-ece4c09f64ff",
                     "network": "bsc",
                     "address": "0x6b7a2c06826599d7cb1d993b5557f14e7970c791",
                     "type": "other",
                     "manual": true,
-                    "game_ids": [
-                        "cda1dd30-0128-4ffe-bb65-29001e1ad0e9"
-                    ],
                     "priority": null
                 },
                 {
-                    "id": "30a98956-a6f3-4309-ace0-e6ad0e30b483",
                     "network": "bsc",
                     "address": "0x1100fe08470ec04b10166902fd14dac2c6c7c4d0",
                     "type": "other",
                     "manual": true,
-                    "game_ids": [
-                        "cda1dd30-0128-4ffe-bb65-29001e1ad0e9"
-                    ],
                     "priority": null
                 },
                 {
-                    "id": "3ca4335c-f1c8-4032-b4ff-07b8f7a2e4f9",
                     "network": "bsc",
                     "address": "0xf977c1ac00ebeb2a27570d39dad64d6e6cce5c24",
                     "type": "other",
                     "manual": true,
-                    "game_ids": [
-                        "cda1dd30-0128-4ffe-bb65-29001e1ad0e9"
-                    ],
                     "priority": null
                 },
                 {
-                    "id": "4791c098-3f6d-4db5-ad4f-87c956bcf040",
                     "network": "bsc",
                     "address": "0xf8c1ba88f1e4aed152f945f1df2a8fdc36127b5f",
                     "type": "other",
                     "manual": true,
-                    "game_ids": [
-                        "cda1dd30-0128-4ffe-bb65-29001e1ad0e9"
-                    ],
                     "priority": null
                 },
                 {
-                    "id": "5f383c92-7aa2-47df-81c8-43041681e8d3",
                     "network": "bsc",
                     "address": "0x1da9b6e37f006dd349089dea21cb8261391593d5",
                     "type": "other",
                     "manual": true,
-                    "game_ids": [
-                        "cda1dd30-0128-4ffe-bb65-29001e1ad0e9"
-                    ],
                     "priority": null
                 },
                 {
@@ -835,18 +748,6 @@
                     "type": null,
                     "is_primary": false
                 }
-            ],
-            "logo1": "https://d1j2c9jkfhu70p.cloudfront.net/mobox_Project_logo_4cd33fa741.png",
-            "media": {
-                "008d3b8c-45fb-432d-a6d5-cca6e2662b75": "mobox_Banner_7624e28b26.png",
-                "043cf7be-272e-450e-96c1-9a74658cf3d6": "animocabrands_full_color_a9c5c4f1a6.png",
-                "30e91d64-0336-43ef-92b7-0e8e0d6417f2": "mobox_Ver_1d7926030b.png",
-                "5a04cad8-6dd0-4366-ab8c-45eaeb25f2b6": "mobox_Token_logo_square_ee0de9e7ef.png",
-                "7af40af0-b68d-4b66-9d5d-fae2790daca7": "mobox_Project_logo_4cd33fa741.png",
-                "ce682392-3efd-4a53-8667-575c4bcaee79": "binancelabs_full_color_5d38a73f49.png",
-                "d72ce8a5-6607-443a-803c-04efcf8eae80": "mobox_Rec_b39968ffa5.png"
-            }
+            ]
         }
-    },
-    "__N_SSP": true
-}
+    }

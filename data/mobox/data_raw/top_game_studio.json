@@ -1,0 +1,18 @@
+{
+    "data": {
+        "items": [
+            {
+                "id": "639b1833-09b1-4a69-8502-d0b287b9e695",
+                "name": "MOBOX Team",
+                "link": null,
+                "staffs": null,
+                "game_ids": null
+            }
+        ],
+        "metadata": {
+            "others": {
+                "team_rank": "S"
+            }
+        }
+    }
+}

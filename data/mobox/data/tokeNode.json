@@ -1,0 +1,33 @@
+{
+    "tokenomics_compact": [
+        {
+            "id": "39b3446e-4e0e-458a-9243-cfc391d8204a",
+            "valuation": 0,
+            "market_cap": 88049070.78855804,
+            "market_cap_init": 0,
+            "market_cap_fully_diluted": 324416192,
+            "market_cap_self_reported": 88050432,
+            "token_symbol": "MBOX",
+            "icon": "5a04cad8-6dd0-4366-ab8c-45eaeb25f2b6",
+            "current_price": 0.3244161903858185,
+            "public_price": 0,
+            "highest_price": 15.44,
+            "reported_ath": 0,
+            "chart_symbol": "MBOXUSDT",
+            "init_token_circulation": 37333406,
+            "init_valuation": 0,
+            "coinmarketcap_slug": "mobox",
+            "coingecko_slug": "mobox",
+            "price_change_24_h": 0.31560562,
+            "price_change_7_d": -4.56441134,
+            "price_change_30_d": 15.09778173,
+            "price_change_90_d": 17.0750034,
+            "volume_24_h": 10726679.5451243,
+            "volume_change_24_h": -9.1394,
+            "total_supply": 369987868,
+            "max_supply": 1000000000,
+            "type": null,
+            "is_primary": false
+        }
+    ]
+}
